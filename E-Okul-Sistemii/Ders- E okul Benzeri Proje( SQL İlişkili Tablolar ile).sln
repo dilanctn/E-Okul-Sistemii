@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders- E okul Benzeri Proje( SQL İlişkili Tablolar ile)", "Proje- E okul Benzeri Proje( SQL İlişkili Tablolar ile)\Ders- E okul Benzeri Proje( SQL İlişkili Tablolar ile).csproj", "{874ABBAB-F4AC-4296-A292-C032811E695D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874ABBAB-F4AC-4296-A292-C032811E695D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874ABBAB-F4AC-4296-A292-C032811E695D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874ABBAB-F4AC-4296-A292-C032811E695D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874ABBAB-F4AC-4296-A292-C032811E695D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C1F11D-2956-4446-819B-D1336EBEB4C6}
+	EndGlobalSection
+EndGlobal
